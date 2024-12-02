@@ -1,0 +1,3 @@
+/Raze/build/CMakeFiles/raze.dir
+/Raze/build/CMakeFiles/edit_cache.dir
+/Raze/build/CMakeFiles/rebuild_cache.dir
